@@ -1,1 +1,1 @@
-# ProjectAmulet
+# This is a repo for packaged releases of working title Project Amulet. Simply download the code, unzip the file, and run the .exe to play. In order to play online, please have a steam account connected online.
